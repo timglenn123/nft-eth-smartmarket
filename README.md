@@ -1,6 +1,5 @@
-# smartmarket
+# smartmarket proof of concept
 
-Proof of Concept:
 
 ## blockchain based marketplace
 
