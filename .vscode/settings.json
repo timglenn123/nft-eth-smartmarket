@@ -1,0 +1,4 @@
+{
+  "typescript.validate.enable": false,
+  "js/ts.implicitProjectConfig.module": "ES2015"
+}
