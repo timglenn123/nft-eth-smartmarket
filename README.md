@@ -26,7 +26,7 @@
 > 
 *or*
 
-> truffle run
+> npm run start
 
 *goto*  http://localhost:3000
 
